@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Image/days.png</file>
+        <file>Image/Snapp.png</file>
+        <file>Image/Total.png</file>
+        <file>Image/calendar.png</file>
+        <file>Image/Icon.png</file>
+    </qresource>
+</RCC>
